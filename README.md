@@ -1,4 +1,4 @@
-# 🌌 Etherbit Tiling — Central de Lançamentos (Releases)
+# Etherbit Tiling — Central de Lançamentos (Releases)
 
 Este repositório é utilizado exclusivamente para hospedar os arquivos de lançamento públicos (releases e binários) do **Etherbit Tiling**. 
 
